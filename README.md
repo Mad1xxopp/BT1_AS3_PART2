@@ -30,11 +30,13 @@ npx hardhat compile
 ```sh
 npx hardhat test
 ```
+![PART22](https://github.com/user-attachments/assets/a5f8ebed-9f6d-4d3d-81a5-c799c0a6957a)
 
 ### Deploy Smart Contract to Ganache
 ```sh
 npx hardhat run scripts/deploy2.js --network ganache
 ```
+![PART2](https://github.com/user-attachments/assets/d5d94348-486b-4458-ac9d-57a5b266cf24)
 
 ## Test Results
 After running the tests, the following results were obtained:
