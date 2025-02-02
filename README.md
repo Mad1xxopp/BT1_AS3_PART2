@@ -19,6 +19,7 @@ The project includes:
 ### Install Dependencies
 ```sh
 npm install
+npx hardhat
 ```
 
 ### Compile the Smart Contract
